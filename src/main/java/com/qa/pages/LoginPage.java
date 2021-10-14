@@ -9,7 +9,6 @@ public class LoginPage {
 		System.out.println("login set");
 	}
 	public void loginPageMethodIneclipse() {
-		System.out.println("Login Page Method");
 	}
 
 }
