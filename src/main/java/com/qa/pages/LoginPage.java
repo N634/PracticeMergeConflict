@@ -8,5 +8,8 @@ public class LoginPage {
 	public void loginSet() {
 		System.out.println("login set");
 	}
+	public void loginPageMethod2() {
+		System.out.println("Login Page Method");
+	}
 
 }
